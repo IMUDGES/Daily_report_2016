@@ -1,5 +1,7 @@
+参加暑期开发的人员，以学号命名自己的markdown文件作为日报书，模板如下：
+-------
 # IMUDGES 2016暑期开发 日报书
-<span style="color:red">请勿求改本模板的标签</span>
+<span style="color:red">请勿更改本模板的标签</span>
 
 -------
 

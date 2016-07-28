@@ -7,12 +7,12 @@
 
 今日完成事宜
 
- 学习部分java知识和部分Android studio使用方法
- 注册github会员
+ 学习部分Android studio使用方法
+ 
 今日未完成事宜
 
 事宜	             预期结果	                当前结果	             未完成原因
 确立项目           确立了项目               未确立                 想不出来了
 明日待办事宜
 一定要确立项目
-继续学习java和Androidstudio的使用方法
+继续学习Androidstudio的使用方法
